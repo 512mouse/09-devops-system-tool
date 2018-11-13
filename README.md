@@ -17,7 +17,7 @@
 
    1. 在本地创建分支
 
-      ![image-20181112175220160](/Users/jingyun/Documents/GreatOps/标准/产品标准/09-devops-system-tool/docs/image-20181112175220160.png)
+      ![image-20181112175220160](docs/image-20181112175220160.png)
 
       在Github Desktop 中点击创建分支，输入分支名称即可
 
