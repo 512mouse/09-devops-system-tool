@@ -10,6 +10,7 @@
 
 #### 2. [应用设计与开发](application_design_and_development.md)
 
+#### 3. [持续交付](continuous_delivery.md)
 
 #### 4. [测试管理](test_management.md)
 
