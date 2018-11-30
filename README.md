@@ -31,7 +31,7 @@
 
 2. 如何修改并提交标准内容：
 
-   1. 在本地创建分支
+   1. Fork仓库或在本地创建分支
 
       ![image-20181112175220160](docs/image-20181112175220160.png)
 
@@ -41,9 +41,9 @@
 
    3. 提交到Github（git add->git commit->git push origin 分支名称）
 
-   4. 发起Pull Request，申请合并修改内容到主干，Reviewers选择能力项组长，请详细描述Pull Request理由
+   4. 发起Pull Request，申请合并修改内容，请详细描述Pull Request理由
 
-   5. 能力项组长Review提交内容后确认是否接受Pull Request
+   5. 各能力项组长Review提交内容后确认是否接受Pull Request
 
 3. 如何管理长期的待办事项
 
@@ -76,7 +76,7 @@
 
 | 能力项 | 应用框架                | 云IDE         |
 | ------ | ----------------------- | ------------- |
-| 组长   | 组长：腾讯              | 华为云        |
+| 组长   | 腾讯              | 华为云        |
 | 成员   | 华为云/阿里云/腾讯/谐云 | 华为云/阿里云 |
 
 #### 3. [持续交付](continuous_delivery.md)
