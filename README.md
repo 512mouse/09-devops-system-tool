@@ -25,7 +25,7 @@
 
 ### 协作模式
 
-该标准基于Markdown（纯文本）的方式编写，采用Github进行统一的版本管理和变更管理。
+该标准基于Markdown（纯文本）的方式编写，采用GitHub进行统一的版本管理和变更管理。
 
 #### 1. 协作流程
 
@@ -37,11 +37,11 @@
 
       ![image-20181112175220160](docs/image-20181112175220160.png)
 
-      在Github Desktop 中点击创建分支，输入分支名称即可
+      在GitHub Desktop 中点击创建分支，输入分支名称即可
 
    2. 参考Markdown[格式说明](http://www.markdown.cn/)，在本地采用Markdown编辑器进行内容修改即可
 
-   3. 提交到Github（git add->git commit->git push origin 分支名称）
+   3. 提交到GitHub（git add->git commit->git push origin 分支名称）
 
    4. 发起Pull Request，申请合并修改内容，请详细描述Pull Request理由
 
@@ -55,7 +55,7 @@
 
 1. Markdown 编辑器
    1. Typora：https://typora.io（Window/Mac/Linux）
-2. Github 管理
+2. GitHub 管理
    1. GitHub Desktop：https://desktop.github.com
    2. 其他工具：Git/TortoiseGit等
  #### 注意事项
