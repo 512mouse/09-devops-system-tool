@@ -119,4 +119,4 @@
 
 ### DevOps 工具图谱
 
-![image-20181112175220160](docs/devops_toolsets_overview.jpg)
+![devops_toolsets_overview](docs/devops_toolsets_overview.jpg)
