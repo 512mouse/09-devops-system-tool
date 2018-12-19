@@ -4,6 +4,10 @@
 
 本标准由DevOps标准工作组下DevOps产品工作小组负责编写和维护。
 
+### DevOps 系统和工具成员单位
+![DevOps](/Users/gaoxiaoyunwei/Desktop/DevOps.jpg)
+
+
 ### 目录
 
 #### 0. [前言与术语](preface.md)
@@ -115,7 +119,8 @@
 | 组织   | 华为云                                                  | 阿里云                                      | 腾讯云   |
 | 成员   | 阿里云/腾讯云/华为云/京东云/灵雀云/电信研究院/谐云/中兴 | 华为云/腾讯云/中兴/阿里云/京东云/电信研究院 |          |
 
-
+### DevOps 工具图谱
+![DevOps 工具图谱 11-2](/Users/gaoxiaoyunwei/Desktop/DevOps产品标准/DevOps 工具图谱 11-2.jpg)
 
 
 
