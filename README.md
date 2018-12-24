@@ -65,7 +65,7 @@
 1. 注意修改前请获取最新的提交
 
 ### 编写单位
-![compilers](docs/compilers.jpg)
+![compilers](/docs/compilers.png)
 
 ### 分工表
 
