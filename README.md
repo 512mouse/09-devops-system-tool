@@ -31,7 +31,7 @@
 
 #### 1. 协作流程
 
-1. 如何下载标准内容：`git cloe git@github.com:docmm/09-devops-system-tool.git`
+1. 如何下载标准内容：`git clone git@github.com:docmm/09-devops-system-tool.git`
 
 2. 如何修改并提交标准内容：
 
